@@ -3,11 +3,11 @@ HydraUSB3 Hardware
 
 HydraUSB3 V1 is an open source developer kit for the WCH CH569 MCU to experiment with streaming / high-speed protocols like HSPI and SerDes through USB3.
 
-![HydraUSB3 V1 board](HydraUSB3_V1_board.jpg)
+![HydraUSB3 V1 board](HydraUSB3_V1_board.jpg?)
 
 You can Buy HydraUSB3 Online: http://hydrabus.com/buy-online
 
-![HydraUSB3 V1 Pin Assignment](HydraUSB3_V1_PinAssignment.png)
+![HydraUSB3 V1 Pin Assignment](HydraUSB3_V1_PinAssignment.png?)
 
 For more details on HydraUSB3 v1 (first version is V1 R1) the schematic is available in PDF see https://github.com/hydrausb3/hydrausb3_hw/blob/main/HydraUSB3_V1R1_schematic.pdf
 
